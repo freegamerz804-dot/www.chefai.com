@@ -1,0 +1,7 @@
+{
+  "name": "Chef AI v1",
+  "description": "An intelligent cooking assistant that generates recipes, identifies food from images, and chats like a world-class chef.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
